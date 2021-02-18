@@ -18,7 +18,7 @@ This project was developed with the following technologies:
 ___
 
 ## 💻 Example
-[Imgur](https://i.imgur.com/ithoQWb.gif)
+![Imgur](https://i.imgur.com/ithoQWb.gif)
 
 
 ___
