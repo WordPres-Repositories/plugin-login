@@ -29,7 +29,9 @@ Clone this plugin and install it on your wordpress:
 
     # Clone this repository
         $ git clone https://github.com/WordPres-Repositories/plugin-login
-
+    
+    # Create a page and past the shortcode 
+        [login_auth_form] 
 ___
 
 ## 📝 License
